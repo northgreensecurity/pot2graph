@@ -8,9 +8,11 @@ Remember - this will NOT show how many times a password has been cracked or how 
 
 Usage:
 $python3 pot2graph.py
+
 ![image](https://user-images.githubusercontent.com/108965118/212789185-127702dc-ce5c-4efc-9b55-8990c38f8e9e.png)
 
 The tool will produce a pie chart (that will be saved as a jpg)
+
 ![image](https://user-images.githubusercontent.com/108965118/212789253-2a1dc785-e648-4897-b7be-586e4a522dce.png)
 
 and will save a CSV file for any other analysis you may want to do
