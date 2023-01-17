@@ -2,6 +2,10 @@ import csv
 import re
 import matplotlib.pyplot as plt
 
+#Author: Dan Cannon (https://www.linkedin.com/in/daniel-cannon-75421130/)
+#Company: North Green Security (www.northgreensecurity.com)
+#Note: So far this will only analyse the data in your potfile, if you have any errors make sure there are no blank lines
+
 # Ask user for Potfile
 potfile_name = input("Please enter the name of the potfile to be analysed: ")
 
