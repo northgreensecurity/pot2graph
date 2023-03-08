@@ -6,6 +6,26 @@ import matplotlib.pyplot as plt
 #Company: North Green Security (www.northgreensecurity.com)
 #Note: So far this will only analyse the data in your potfile, if you have any errors make sure there are no blank lines
 
+print("\033[34m                                                                  &             \033[0m")
+print("\033[34m                                          &&&%              &&&&&&&&&&&&        \033[0m")
+print("\033[34m                                   &&&    &&&%             &&&         &&&      \033[0m")
+print("\033[34m &&&&&&&&&&   &&&&&&&&&&  &&&&&&& &&&&&&  &&&&&&&&&&      &&&    \033[32m///\033[0m\033[34m    &&&     \033[0m")
+print("\033[34m &&&    *&&& &&&&    &&&% &&&&     &&&    &&&&    &&&   &&&&&   \033[32m///\033[0m\033[34m     &&/     \033[0m")
+print("\033[34m &&&     &&&  &&&    &&&  &&&&     &&&    &&&%    &&&    &&&   \033[32m///\033[0m\033[34m     &&&      \033[0m")
+print("\033[34m &&&     &&&   &&&&&&&&   &&&&      &&&&  &&&%    &&&         \033[32m///\033[0m\033[34m     &&&   \033[32m////\033[0m\033[34m  \033[0m")
+print("\033[32m                                                             \033[32m///\033[0m\033[34m     &&&   \033[32m/////\033[0m\033[34m  \033[0m")
+print("\033[32m ///////////  /////// //////////  /////////   //////////     \033[32m///\033[0m\033[34m    &&&    \033[32m///  \033[0m")
+print("\033[32m////    ////  ////    ////////// ///////////  ///    ////    \033[32m///\033[0m\033[34m    &     \033[32m///   \033[0m")
+print("\033[32m ///*   ////  ///     ///    ///  ///   ////  ///    ////     \033[32m///\033[0m        \033[32m///    \033[0m")
+print("\033[32m  //////////  ///       //////     ///////    ///    ////       \033[32m//////////\033[0m      \033[0m")
+print("\033[32m ///    ////                                                                    \033[0m")
+print("\033[32m  ////////   \033[0m")
+
+print("\n")
+print("Pot2Graph\nA visualisation tool for cracked passwords")
+print("\n")
+
+
 # Ask user for Potfile
 potfile_name = input("Please enter the name of the potfile to be analysed: ")
 
